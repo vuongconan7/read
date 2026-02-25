@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+everybody+I+Am+MV;My+roblox+user+vuongflorentinoexe;My+AOV+user+kudovuongteam;Good+Luck+For+Anyone+Like+me+!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+everyone+I+Am+MV; My+roblox+user+vuongflorentinoexe ; My+AOV+user+kudovuongteam ; Good+Luck+For+Anyone+Like+me+! ; Love+All+You+=)&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 <p align="center">
@@ -151,7 +151,7 @@ Feel free to [open a PR](https://github.com/DenverCoder1/readme-typing-svg/issue
 |     `width`     |             Width of the output SVG in pixels (default: `400`)              | integer |                                                Any positive number                                                |
 |     `size`      |                     Font size in pixels (default: `20`)                     | integer |                                                Any positive number                                                |
 |     `font`      |                     Font family (default: `monospace`)                      | string  |                                            Any font from Google Fonts                                             |
-|     `color`     |                    Color of the text (default: `36BCF7`)                    | string  |                                         Hex code without # (eg. `F724A9`)                                         |
+|     `color`     |                    Color of the text (default: `f7368a`)                    | string  |                                         Hex code without # (eg. `F724A9`)                                         |
 |  `background`   |             Background color of the text (default: `00000000`)              | string  |                                         Hex code without # (eg. `FEFF4C`)                                         |
 |    `center`     |    `true` to center text or `false` for left aligned (default: `false`)     | boolean |                                                 `true` or `false`                                                 |
 |    `vCenter`    |  `true` to center vertically or `false`(default) to align above the center  | boolean |                                                 `true` or `false`                                                 |
